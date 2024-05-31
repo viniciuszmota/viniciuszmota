@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 How to reach me in istagram @viniciuszamprognom
 - ⚡ Fun fact: I am a chemist!
+- Student at Rocketseat 🚀
 
 <!---
 viniciuszmota/viniciuszmota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
