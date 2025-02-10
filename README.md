@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinicius Zamprogno Mota!
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Ruby.
 - 📫 How to reach me in istagram @viniciuszamprognom
 - ⚡ Fun fact: I am a chemist!
 - 👨‍💻 Student at Rocketseat 🚀
