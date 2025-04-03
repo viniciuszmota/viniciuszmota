@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Vinicius Zamprogno Mota!
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Ruby.
+- 🌱  NodeJS, JavaScript and Ruby on Rails.
 - 📫 How to reach me in istagram @viniciuszamprognom
+- 👨‍💻 Batch #1925 at LeWagon 🚀
 - ⚡ Fun fact: I am a chemist!
-- 👨‍💻 Student at LeWagon 🚀
+
 
 <!---
 viniciuszmota/viniciuszmota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
